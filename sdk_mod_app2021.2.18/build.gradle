@@ -40,8 +40,8 @@ android {
                     from components.release
 
                     // You can then customize attributes of the publication as shown below.
-                    groupId = 'com.example.MyLibrary'
-                    artifactId = 'final'
+                    groupId = 'com.redeye.app2021.2.18'
+//                    artifactId = 'final'
                     version = '1.0.1'
                 }
                 // Creates a Maven publication called “debug”.
@@ -49,9 +49,9 @@ android {
                     // Applies the component for the debug build variant.
                     from components.debug
 
-                    groupId = 'com.example.MyLibrary'
-                    artifactId = 'final-debug'
-                    version = '1.0'
+                    groupId = 'com.redeye.app2021.2.18'
+//                    artifactId = 'final-debug'
+                    version = '1.0.1'
                 }
             }
         }
