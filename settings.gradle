@@ -15,7 +15,7 @@ dependencyResolutionManagement {
 rootProject.name = "AndModUnity"
 include ':sdk_mod_app2019.4.36'
 include ':sdk_mod_app2021.2.18'
-
+include ':sdk_mod_app2021.3.6'
 
 
 
